@@ -1,12 +1,6 @@
- // CS311 Yoshii
-// HW3P2 Instruction: Inherit everything publicly from llist
-// Put only the following in class slist.h 
-//    inheriting everything from llist.h
-//
-// Then create slist.cpp with only the following functions
-// Complete all ** parts 
+ 
 //=================================================
-// HW#: HW3P2 slist
+// slist
 // Name: Abdiel Verdin  
 // File: h file (header)
 //=================================================
