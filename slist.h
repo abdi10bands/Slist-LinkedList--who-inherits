@@ -8,7 +8,7 @@
 //**  // for includes
 #include "llist.h"
 
-class slist: public llist //**  
+class slist: public llist //** we inherit here 
 {
 
  public:
