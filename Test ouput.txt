@@ -1,0 +1,42 @@
+Script started on Sat 24 Oct 2020 11:02:00 PM PDT
+]0;verdi006@empress:~/cs311/CS311Progs/HWPrograms/forHW3[?1034h[verdi006@empress forHW3]$ logoemacs slist.cp[2PHW3P2client.cp[8Pslist.lscd forHWlscd HWProgramlscd CS311Proglscd cs3[2Plogoemacs binstree.cp[2lscd forHWlscd HWPrograpgramlscd CS311Progpglscd cs3emacs TestLinkedList.tlsemacs Test.t[9Pcleaemacs Test.tls/cs/recordhw Test.tx[3PTest.tclear[./a.ouemacs HW3P1client.cp[14P./a.oug++ llist.cpp HW3P1client.cpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8Pemacs[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[lsemacs HW3P1client.cp[8@g++ llist.cpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[verdi006@empress forHW3]$ g++ llist.cpp HW3P1client.cpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8Pemacs[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[lsemacs  llist.c[3Pg++[C[C[C[C[C[C[C[C[C[[3@emacs [C[C[C[C[C[C[C[C[C[3Pg++[C[C[C[C[C[C[C[C[C[emacs  llist.c[3Pg++[C[C[C[C[C[C[C[C[C[[8Pcleag++ llist.cp[3@emacs [C[C[C[C[C[C[C[C[C[3Pg++[C[C[C[C[C[C[C[C[C[[3@emacs [C[C[C[C[C[C[C[C[Clscd forHWlscd HWProgramlscd CS311Pros[C[C[C[C[C[C[C[C[C[C[5Pd[[[Kg++ slist.cpp llist.cpp HW3P2client.cpp
+]0;verdi006@empress:~/cs311/CS311Progs/HWPrograms/forHW3[verdi006@empress forHW3]$ g++ slist.cpp llist.cpp HW3P2client.cpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Clogoutemacs slist.cp[2PHW3P2client.cp[8Pslist.lscd forHWlscd HWProgramlscd CS311Proglscd cs3[2Plogoemacs binstree.cp[2lscd forHWlscd HWPrograpgramlscd CS311Progpglscd cs3emacs TestLinkedList.tlsemacs Test.t[9Pcleaemacs Test.tls/cs/recordhw Test.tx[3PTest.tclear[./a.ouemacs HW3P1client.cp[14P./a.oug++ llist.cpp HW3P1client.cpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8Pemacs[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[lsemacs  llist.c[3Pg++[C[C[C[C[C[C[C[C[C[[3@emacs [C[C[C[C[C[C[C[C[Clsemacs HW3P1client.cp[8@g++ llist.cpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./a.out[emacs HW3P1client.cp[14P./a.out
+... in llist constructor...
+slist constructor:
+Step 1 addFront
+Step 2 addRear
+Step 3
+[ 4  6  7  8 ]
+Step 4
+Found 6 in location 2
+Step 5 replace 6
+Step 6
+[ 4  0  7  8 ]
+Step 7
+Found 8 in location 4
+Step 8 replace 8
+Step 9
+[ 4  0  7  2 ]
+Step 10
+not found
+Step 11 replace 7
+ERROR: Bad position was given
+.... in llist destructor...
+---- First Part testing done ----- 
+... in llist constructor...
+slist constructor:
+... in llist constructor...
+slist constructor:
+true
+false
+false
+true
+false
+false
+false
+.... in llist destructor...
+.... in llist destructor...
+]0;verdi006@empress:~/cs311/CS311Progs/HWPrograms/forHW3[verdi006@empress forHW3]$ exit
+exit
+
+Script done on Sat 24 Oct 2020 11:04:54 PM PDT
