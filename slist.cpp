@@ -1,8 +1,8 @@
-// CS311 Yoshii Complete all functions with their comments
+
 
 // ====================================================
-//HW#: HW3P1 slist  inheriting from llist
-//Your name: **
+//-- slist  inheriting from llist
+//Your name: Abdiel Verdin
 //Complier:  g++
 //File type: slist.cpp implementation file
 //=====================================================
